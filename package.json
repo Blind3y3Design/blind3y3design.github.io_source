@@ -2,7 +2,7 @@
   "name": "Blind3y3Design",
   "version": "4.0.0",
   "devDependencies": {
-    "grunt": "^1.0.1",
+    "grunt": "^1.5.2",
     "grunt-contrib-watch": "^1.0.0",
     "grunt-sass": "^2.0.0",
     "load-grunt-tasks": "^3.5.2"
